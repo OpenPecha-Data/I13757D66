@@ -1,0 +1,25 @@
+id: I13757D66
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:45:47.622018+00:00
+last_modified: 2022-12-15 07:45:47.622031+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-056-002
+  title: Toh_134-The_Absorption_That_Encapsulates_All_Merit-v2
+bases:
+  2A75:
+    source_metadata: null
+    order: 1
+    base_file: 2A75.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
